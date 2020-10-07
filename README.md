@@ -1,6 +1,6 @@
 # UDPChat
-The main task of this project realize chat with .NET and UDP protocol.
-Using MVC pattern.
-Model in Model.cs.
-Views in View directories.
-Presentors in Presentor directories.
+Simple .NET project with WinForms. Developed for my coursework.  
+
+Enter yout nichname and get started chating with other's.
+
+Now is uncomplete version for testing and have port input form which will be removed after release
