@@ -1,4 +1,4 @@
-/.idea/**
-/.vs/**
-/UDPChat/bin/**
-/UDPChat/bin/**
+.idea
+.vs
+/UDPChat/bin/
+/UDPChat/bin/
