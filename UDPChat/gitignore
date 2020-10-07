@@ -1,10 +1,4 @@
-**/target/
-test-output/
-.settings/
-.project
-.classpath
-*.iml
-/.idea/
-/logs/
-.kube/
-
+/.idea/**
+/.vs/**
+/UDPChat/bin/**
+/UDPChat/bin/**
