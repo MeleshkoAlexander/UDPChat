@@ -1,4 +1,4 @@
 .idea/
 .vs/
-/UDPChat/bin/
-/UDPChat/obj/
+UDPChat/bin/
+UDPChat/obj/
