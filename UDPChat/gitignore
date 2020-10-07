@@ -1,0 +1,10 @@
+**/target/
+test-output/
+.settings/
+.project
+.classpath
+*.iml
+/.idea/
+/logs/
+.kube/
+
